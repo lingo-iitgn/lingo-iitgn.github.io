@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lingo-iitgn.github.ioblank/sitemap.xml
+Sitemap: https://lingo-iitgn.github.io/sitemap.xml
