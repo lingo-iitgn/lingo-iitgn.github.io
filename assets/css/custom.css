@@ -1,31 +1,23 @@
 /* custom.css */
 .custom-slider-container {
-    height: 300px;
-    width: 100%;
-    overflow: hidden; /* Optional: Hide overflow if the slider's content exceeds the fixed height */
-  }
-  .custom-slider-container .slider-image {
-    width: 100%;
-    height: 100%;
-    background-size: cover; /* Adjust how the image fills the container */
-    background-position: center; /* Center the image within the container */
-    background-repeat: no-repeat;
-  }
-  
+  height: 100%;
+  width: 100%;
+  overflow: hidden; /* Optional: Hide overflow if the slider's content exceeds the fixed height */
+}
 
-  .centered-card {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 80vh;
-  }
+.centered-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
 
-  .fixed-card {
-    width: 800px; /* Fixed width */
-    min-width: 800px; /* Minimum width */
-    min-height: 600px; /* Minimum height */
-  }
+.fixed-card {
+  width: 100%; /* Make it full-width on all devices */
+  max-width: 800px; /* Set a maximum width to maintain readability */
+  min-height: 600px; /* Minimum height */
+}
 
-  .card-title-bottom {
-    margin-top: auto;
-  }
+.card-title-bottom {
+  margin-top: auto;
+}
