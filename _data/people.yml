@@ -1,0 +1,76 @@
+- display_name: "Yulia Tsvetkov"
+  webpage: "http://www.cs.cmu.edu/~ytsvetko/"
+  image: /assets/img/people/lingo_iitgn.png
+  role: faculty
+  bio: Associate Professor
+  research_interests: "Natural Language Processing, Machine Learning"
+
+- display_name: "Vidhisha Balachandran"
+  webpage: "https://vidhishanair.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: grad
+  bio: PhD Student, CMU
+  research_interests: "Computer Vision, Deep Learning"
+
+- display_name: "Chan Young Park"
+  webpage: "https://chan0park.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: grad
+  bio: PhD Student, CMU
+  research_interests: "Robotics, Human-Robot Interaction"
+
+- display_name: "Mike Smith"
+  webpage: "https://mikesmith.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: mtech
+  bio: MTech Student, CMU
+  research_interests: "Artificial Intelligence, Data Science"
+
+- display_name: "Sarah Johnson"
+  webpage: "https://sarahjohnson.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: mtech
+  bio: MTech Student, CMU
+  research_interests: "Machine Learning, Natural Language Processing"
+
+- display_name: "John Davis"
+  webpage: "https://johndavis.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: btech
+  bio: BTech Student, CMU
+  research_interests: "Computer Graphics, Game Development"
+
+- display_name: "Emily Wilson"
+  webpage: "https://emilywilson.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: btech
+  bio: BTech Student, CMU
+  research_interests: "Web Development, UX Design"
+
+- display_name: "Robert Lee"
+  webpage: "https://robertlee.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: alum
+  bio: Alumnus, CMU
+  research_interests: "Computer Networks, Cybersecurity"
+
+- display_name: "Linda Brown"
+  webpage: "https://lindabrown.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: alum
+  bio: Alumna, CMU
+  research_interests: "Artificial Intelligence, Data Science"
+
+- display_name: "Peter Wilson"
+  webpage: "https://peterwilson.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: grad
+  bio: PhD Student, CMU
+  research_interests: "Computer Vision, Machine Learning"
+
+- display_name: "Alice Smith"
+  webpage: "https://alicesmith.github.io"
+  image: /assets/img/people/lingo_iitgn.png
+  role: grad
+  bio: PhD Student, CMU
+  research_interests: "Natural Language Processing, Information Retrieval"
