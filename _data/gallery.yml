@@ -1,0 +1,61 @@
+- occasion:
+    title: "Summer Vacation"
+    date: "2023-07-15"
+    images:
+      - src: "/assets/img/1.jpg"
+        alt: "At the Beach"
+      - src: "/assets/img/2.jpg"
+        alt: "Hiking in the Mountains"
+      - src: "/assets/img/3.jpg"
+        alt: "Exploring the City"
+
+- occasion:
+    title: "Family Reunion"
+    date: "2023-08-20"
+    images:
+      - src: "/assets/img/1.jpg"
+        alt: "abc"
+      - src: "/assets/img/2.jpg"
+        alt: "def"
+      - src: "/assets/img/3.jpg"
+        alt: "ghi"
+
+- occasion:
+    title: "Graduation Day 1"
+    date: "2023-05-30"
+    images:
+      - src: "/assets/img/1.jpg"
+        alt: "Receiving Diplomas"
+      - src: "/assets/img/2.jpg"
+        alt: "Celebration with Friends"
+
+- occasion:
+    title: "Summer Vacation 2"
+    date: "2023-07-15"
+    images:
+      - src: "/assets/img/1.jpg"
+        alt: "At the Beach"
+      - src: "/assets/img/2.jpg"
+        alt: "Hiking in the Mountains"
+      - src: "/assets/img/3.jpg"
+        alt: "Exploring the City"
+
+- occasion:
+    title: "Family Reunion 3"
+    date: "2023-08-20"
+    images:
+      - src: "/assets/img/1.jpg"
+        alt: "Gmno"
+      - src: "/assets/img/2.jpg"
+        alt: "ghrt"
+      - src: "/assets/img/3.jpg"
+        alt: "Games and Fun"
+
+- occasion:
+    title: "Graduation Day 4"
+    date: "2023-05-30"
+    images:
+      - src: "/assets/img/1.jpg"
+        alt: "rtgrtrty"
+      - src: "/assets/img/2.jpg"
+        alt: "nghg"

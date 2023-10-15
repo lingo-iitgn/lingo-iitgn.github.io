@@ -1,52 +1,34 @@
 ---
 layout: page
-title:  gallery
+title:  
 permalink: /gallery/
 nav: false
 nav_order: 7
 subtitle: images and videos
 ---
 
-This is an example post with image galleries.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
-</div>
-
----
-
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
----
-
-The rest of the images in this post are all zoomable, arranged into different mini-galleries.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
+<div class="container">
+  <div class="row">
+    {% for occasion in site.data.gallery %}
+      <div class="col-md-12">
+        <div class="occasion">
+          <h2>{{ occasion.occasion.title }}</h2>
+          <p>Date: {{ occasion.occasion.date }}</p>
+          <div class="images">
+            <div class="row">
+              {% for image in occasion.occasion.images %}
+                <div class="col-md-3">
+                  <div class="image mt-3">
+                    {% include figure.html path=image.src class="img-fluid rounded z-depth-1" alt=image.alt zoomable=true %}
+                    <div class="caption text-center">{{ image.alt }}</div>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          <hr> <!-- Horizontal line to separate occasions -->
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </div>
