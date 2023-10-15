@@ -12,13 +12,30 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like!
 
 
-| date       | paper title                 | speaker      |
-|------------|-----------------------------|--------------|
-| 2023-10-01 | Introduction to AI          | John Smith   |
-| 2023-10-08 | Machine Learning Basics     | Sarah Johnson|
-| 2023-10-15 | Natural Language Processing | David Brown  |
-| 2023-10-22 | Computer Vision Fundamentals| Emma White   |
-| 2023-10-29 | Deep Learning Techniques    | Michael Lee  |
-| 2023-11-05 | Ethics in AI               | Laura Davis  |
-| 2023-11-12 | Future of AI               | James Wilson |
+<div class="container mt-5">
+  <div class="table-container" style="max-height: 400px; overflow-y: auto;">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Paper Title</th>
+          <th>Paper Link</th>
+          <th>Attachments</th>
+          <th>Speaker</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for item in site.data.reading %}
+        <tr>
+          <td>{{ item.date }}</td>
+          <td>{{ item.paper_title }}</td>
+          <td><a href="{{ item.paper_link }}">{{ item.paper_title }}</a></td>
+          <td><a href="{{ item.attachments_link }}">{{ item.attachments_link }}</a></td>
+          <td>{{ item.speaker }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>    
+  </div>
+</div>
 
