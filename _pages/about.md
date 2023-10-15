@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://iitgn.ac.in/'>Indian Institute of Technology Gandhinagar</a>. Palaj Campus, Gujarat, India.
 
 # profile:
 #   align: right
