@@ -1,101 +1,128 @@
-- date: 2023-01-15
-  paper_title: Sample Paper 1
-  paper_link: https://example.com/paper1
-  attachments_link: https://example.com/attachments1
-  speaker: John Doe
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-01-15
-  paper_title: Sample Paper 1
-  paper_link: https://example.com/paper1
-  attachments_link: https://example.com/attachments1
-  speaker: John Doe
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-01-15
-  paper_title: Sample Paper 1
-  paper_link: https://example.com/paper1
-  attachments_link: https://example.com/attachments1
-  speaker: John Doe
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-01-15
-  paper_title: Sample Paper 1
-  paper_link: https://example.com/paper1
-  attachments_link: https://example.com/attachments1
-  speaker: John Doe
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
-- date: 2023-02-10
-  paper_title: Sample Paper 2
-  paper_link: https://example.com/paper2
-  attachments_link: https://example.com/attachments2
-  speaker: Jane Smith
+- date: 2019-03-28
+  paper_title: "False Information on Web and Social Media: A survey"
+  paper_link: https://arxiv.org/abs/1804.08559
+  attachments_link: 
+  speaker: Soumita Kandu & Vivek Srivastava
+- date: 2019-04-04
+  paper_title: RNNs as Language Models Paper
+  paper_link: 
+  attachments_link: 
+  speaker: Naman Jain
+- date: 2019-04-11
+  paper_title: Word2Vec and GloVe
+  paper_link: 
+  attachments_link: 
+  speaker: Ayush Garg
+- date: 2019-04-25
+  paper_title: BERT
+  paper_link: 
+  attachments_link: 
+  speaker: Pratik Kayal
+- date: 2019-08-28
+  paper_title: Learning to Read Academic Literature
+  paper_link: 
+  attachments_link:
+  speaker: Shruti Singh
+- date: 2019-09-03
+  paper_title: "Gene2vec: Distributed Representation of Genes Based on Co-Expression"
+  paper_link: 
+  attachments_link: 
+  speaker: Abhavya Chandra
+- date: 2019-09-25
+  paper_title: Zero-Shot Entity Linking by Reading Entity Descriptions
+  paper_link: https://arxiv.org/abs/1906.07348
+  attachments_link: 
+  speaker: Heer Ambavi
+- date: 2023-01-31
+  paper_title: "Learning with Different Amounts of Annotation: From Zero to Many Labels"
+  paper_link: https://aclanthology.org/2021.emnlp-main.601.pdf
+  attachments_link: "https://docs.google.com/presentation/d/1AaxwAQZuUuE8K-F5pNf3_A11VyuGyDkfwhkyXFfxjVQ/edit#slide=id.g1fa72da9938_0_120"
+  speaker: Pritam Kadasi
+- date: 2023-01-31
+  paper_title: Dataset Cartography
+  paper_link: https://aclanthology.org/2020.emnlp-main.746.pdf
+  attachments_link: "https://docs.google.com/presentation/d/1kM99oo2uiWKG6Moerc4pyEze9tdn3fA0dxaV3A2F-Ac/edit#slide=id.g1fdd9b00cde_0_119"
+  speaker: Pritam Kadasi
+- date: 2023-02-14
+  paper_title: Editing Factual Knowledge in Language Models (KnowledgeEditor) 
+  paper_link: https://arxiv.org/pdf/2104.08164.pdf
+  attachments_link: "https://docs.google.com/presentation/d/1ZOGk-nyw_iWCUjv0y4ZNNOf8hNmdQIcVqCuhb9Y5xY8/edit#slide=id.gc6f73a04f_0_9"
+  speaker: Himanshu Beniwal & Kowsik N.
+- date: 2023-02-21
+  paper_title: Fast Model Editing at Scale (MEND)
+  paper_link: https://openreview.net/pdf?id=0DcZxeWfOPt
+  attachments_link: "https://docs.google.com/presentation/d/1ZOGk-nyw_iWCUjv0y4ZNNOf8hNmdQIcVqCuhb9Y5xY8/edit#slide=id.gc6f73a04f_0_9"
+  speaker: Kowsik N.
+- date: 2023-03-29
+  paper_title: "BLOOM: A 176B - Parameter Open-Access Multilingual Language Model"
+  paper_link: https://arxiv.org/abs/2211.05100
+  attachments_link: "https://docs.google.com/presentation/d/17D8km5ogpEya86UAlNvq868hEMt0RwkxorPwsl9WPe8/edit#slide=id.p"
+  speaker: Siddesh Doshi & Hitesh Lodwal
+- date: 2023-04-05
+  paper_title: Training Compute-Optimal Large Language Models [DeepMInd]
+  paper_link: https://arxiv.org/pdf/2203.15556.pdf
+  attachments_link:
+  speaker: Shruti Singh
+- date: 2023-04-05
+  paper_title: Scaling Laws for Neural Language Models
+  paper_link: https://arxiv.org/abs/2001.08361
+  # attachments_link: https://docs.google.com/presentation/d/11GGbDFOBOkjwo8O_aitVerOAaJ5RmTADn965txc8ouA/edit#slide=id.p"
+  speaker: Shruti Singh
+- date: 2023-04-12
+  paper_title: Understanding Dataset Difficulty with 𝓥-Usable Information
+  paper_link: https://arxiv.org/pdf/2110.08420.pdf
+  # attachments_link: https://docs.google.com/presentation/d/1Vnaaf5sLQBH3LUDRkmq-TqfiwqB3OS0BuyYaHGYIa-Y/edit#slide=id.p"
+  speaker: Pritam Kadasi
+- date: 2023-04-19
+  paper_title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+  paper_link: https://arxiv.org/pdf/1810.04805.pdf
+  attachments_link: 
+  speaker: Ritesh Patidar
+- date: 2023-05-09
+  paper_title: Improving Language Understanding by Generative Pre-Training
+  paper_link: https://shorturl.at/hrzLX
+  attachments_link: 
+  speaker: Ankit Yadav
+- date: 2023-05-19
+  paper_title: "Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation"
+  paper_link: https://arxiv.org/abs/2108.12409
+  attachments_link: 
+  speaker: Rakesh Thakur
+- date: 2023-05-26
+  paper_title: An introduction to Reinforcement Learning from Human Feedback (RLHF)
+  paper_link: https://arxiv.org/pdf/2204.05862.pdf
+  attachments_link: 
+  speaker: Ritesh Patidar
+- date: 2023-08-11
+  paper_title: Langchain for LLM Application Development
+  paper_link: https://docs.langchain.com/docs/
+  attachments_link: 
+  speaker: Shridhar Pawar
+- date: 2023-08-17
+  paper_title: Auditing and Robustifying COVID-19 Misinformation Datasets via Anticontent Sampling
+  paper_link: https://ojs.aaai.org/index.php/AAAI/article/view/26780
+  attachments_link: 
+  speaker: Yash Kokane
+
+- date: 2023-08-31
+  paper_title: "Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets"
+  paper_link: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled
+  attachments_link: 
+  speaker: Suhani, Hitesh & Khushal
+- date: 2023-09-14
+  paper_title: Emergent Abilities of Large Language Models
+  paper_link: https://arxiv.org/abs/2206.07682
+  attachments_link: 
+  speaker: Rakesh Thakur
+
+- date: 2023-09-21
+  paper_title: "Evaluating Large Language Models Trained on Code"
+  paper_link: https://arxiv.org/abs/2107.03374
+  attachments_link: 
+  speaker: Ankit Yadav
+- date: 2023-10-05
+  paper_title: "How Crowd Worker Factors Influence Subjective Annotations: A Study of Tagging Misogynistic Hate Speech in Tweets"
+  paper_link: https://arxiv.org/abs/2309.01288
+  attachments_link: 
+  speaker: Suhani Mittal
 

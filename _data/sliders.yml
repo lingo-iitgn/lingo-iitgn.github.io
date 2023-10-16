@@ -23,32 +23,88 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
-
+######################### Slider in USE ############################
 - selector: slider2
-  bullets: true
+  bullets: false
   captions: true
   images:
-    - src: /assets/img/j1.jpg
-      title: Balloons!
-      alt: This slider has caption titles
-    - data-src: /assets/img/j2.jpeg
-      title: This slider uses the fade effect
-      alt: Instead of the default slide effect
-    # - data-src: /assets/img/j3.jpg
-    #   data-src-2x: /img/3@2x.jpg
-    - src: /assets/img/j3.jpg
-      title: Last image had no caption!
-      alt: Also, this image has no link
-    - src: /assets/img/j4.jpg
-      title: Last image had no caption!
-      alt: Also, this image has no link
-    - src: /assets/img/j5.jpg
-      title: Last image had no caption!
-      alt: Also, this image has no link
+    - src: /assets/img/slider/slider1.jpeg
+      title: 
+      alt: Lingo!
+    - data-src: /assets/img/slider/slider2.jpeg
+      title: 
+      alt: 
+    - src: /assets/img/slider/slider3.jpeg
+      title: 
+      alt: 
+    - data-src: /assets/img/slider/slider4.jpeg
+      title: 
+      alt: Visit to IISER Bhopal, invited by Prof. Jasbanta Patra
+    - src: /assets/img/slider/slider5.jpeg
+      title:
+      alt: Picture with Dr. Pradeep Shenoy at Research Week with Google 2023.
+    - data-src: /assets/img/slider/slider6.jpeg
+      title: 
+      alt: Invited spotlight talk at ARCS 2023, ACM India Annual Event
+    - src: /assets/img/slider/slider7.jpeg
+      title: 
+      alt: Students attending CoDS-COMAD at IIT Bombay.
+    - data-src: /assets/img/slider/slider8.jpeg
+      title: 
+      alt: Students dineout after IndoML 2022
+    - src: /assets/img/slider/slider9.jpeg
+      title: 
+      alt: \"Gandhipedia\" gets featured in Patrika
+    - data-src: /assets/img/slider/slider10.png
+      title: 
+      alt: Getting featured for the "Gandhipedia" - AI Enabled visualization platform and a repository for Gandhian Literature
+    - src: /assets/img/slider/slider11.jpeg
+      title: 
+      alt: "Prof. Mayank presented the 'Gandhipedia' project - Second Edition of Industry Conclave: Connections 2019 - IIT Gandhinagar"
+    - data-src: /assets/img/slider/slider12.jpeg
+      title: 
+      alt: Lingo group at CoDS-COMAD 2020
+    - src: /assets/img/slider/slider13.jpeg
+      title: 
+      alt: European Conference on Information Retrieval - 2019 at Cologne, Germany
+    - data-src: /assets/img/slider/slider14.jpeg
+      title: 
+      alt: 
+    # - src: /assets/img/j1.jpg
+    #   title: Balloons!
+    #   alt: This slider has caption titles
+    # - data-src: /assets/img/j2.jpeg
+    #   title: This slider uses the fade effect
+    #   alt: Instead of the default slide effect
+    # - src: /assets/img/j1.jpg
+    #   title: Balloons!
+    #   alt: This slider has caption titles
+    # - data-src: /assets/img/j2.jpeg
+    #   title: This slider uses the fade effect
+    #   alt: Instead of the default slide effect
+    
   settings:
-    height: "'auto'"
+    height: "500"
     effect: "'fade'"
-
+###################################################################
+    # - src: /assets/img/j1.jpg
+    #   title: Balloons!
+    #   alt: This slider has caption titles
+    # - data-src: /assets/img/j2.jpeg
+    #   title: This slider uses the fade effect
+    #   alt: Instead of the default slide effect
+    # # - data-src: /assets/img/j3.jpg
+    # #   data-src-2x: /img/3@2x.jpg
+    # - src: /assets/img/j3.jpg
+    #   title: Last image had no caption!
+    #   alt: Also, this image has no link
+    # - src: /assets/img/j4.jpg
+    #   title: Last image had no caption!
+    #   alt: Also, this image has no link
+    # - src: /assets/img/j5.jpg
+    #   title: Last image had no caption!
+    #   alt: Also, this image has no link
+###################################################################
 - selector: slider3
   images:
     - src: /assets/img/1.jpg
