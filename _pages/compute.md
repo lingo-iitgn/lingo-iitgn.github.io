@@ -11,7 +11,7 @@ nav_order: 5
 <div class="container mt-4">
     <div class="row">
         {% for server in site.data.servers %}
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-4 mb-4">
             <div class="card">
                 <div class="card-body text-center">
                     <h5 class="card-title h4">{{ server.name }}</h5>
