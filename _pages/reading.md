@@ -31,8 +31,6 @@ Organize your courses by years, topics, or universities, however you like!
           <td>{{ item.paper_title }}</td>
           <td><a href="{{ item.paper_link }}">{{ item.paper_title }}</a></td>
           <td><a href="{{ item.attachments_link }}">{{ item.attachments_link }}</a></td>
-          <!-- <td><a href="{{ item.paper_link }}">[PDF]</a></td>
-          <td><a href="{{ item.attachments_link }}">[PPT]</a></td> -->
           <td>{{ item.speaker }}</td>
         </tr>
         {% endfor %}

@@ -70,42 +70,42 @@
 
 - display_name: "Ary Pratap"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: btech
   bio: BTech, IITGn
   research_interests: "Computer Graphics, Game Development"
 
 - display_name: "Reuben Devanesan"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: btech
   bio: BTech, IITGn
   research_interests: "Computer Graphics, Game Development"
 
 - display_name: "Paras Gupta"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: btech
   bio: BTech, IITGn
   research_interests: "Computer Graphics, Game Development"
 
 - display_name: "Tarun Sharma"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: btech
   bio: BTech, IITGn
   research_interests: "Computer Graphics, Game Development"
 
 - display_name: "Shridhar Pawar"
   webpage: "https://www.linkedin.com/in/shridhar-pawar-b58b16190/"
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: btech
   bio: BTech, IITGn
   research_interests: "Fast and Efficient Frameworks for LLM Inferencing"
 
 - display_name: "Husain Malawat"
   webpage: "https://in.linkedin.com/in/husain-malwat-371207226"
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: btech
   bio: BTech, IITGn
   research_interests: "Dataset Curation, Model Interpretability"
@@ -169,7 +169,7 @@
 
 - display_name: "Naman Jain"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: alum
   bio: BTech
   research_interests: "Artificial Intelligence, Data Science"
@@ -184,7 +184,7 @@
 
 - display_name: "Soham Pachpande"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: alum
   bio: BTech
   research_interests: "Artificial Intelligence, Data Science"
@@ -198,14 +198,14 @@
 
 - display_name: "Kunal Verma"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: alum
   bio: BTech
   research_interests: "Artificial Intelligence, Data Science"
 
 - display_name: "Chandani Davda"
   webpage: ""
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: alum
   bio: Project Assistant
   research_interests: "Gandhipedia"
