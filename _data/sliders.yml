@@ -23,32 +23,88 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
-
+######################### Slider in USE ############################
 - selector: slider2
   bullets: true
   captions: true
   images:
-    - src: /assets/img/j1.jpg
-      title: Balloons!
-      alt: This slider has caption titles
-    - data-src: /assets/img/j2.jpeg
-      title: This slider uses the fade effect
-      alt: Instead of the default slide effect
-    # - data-src: /assets/img/j3.jpg
-    #   data-src-2x: /img/3@2x.jpg
-    - src: /assets/img/j3.jpg
-      title: Last image had no caption!
-      alt: Also, this image has no link
-    - src: /assets/img/j4.jpg
-      title: Last image had no caption!
-      alt: Also, this image has no link
-    - src: /assets/img/j5.jpg
-      title: Last image had no caption!
-      alt: Also, this image has no link
+    - src: /assets/img/slider/slider1.jpeg
+      title: Lingo!
+      alt: Lingo Logo
+    - data-src: /assets/img/slider/slider2.jpeg
+      title: 
+      alt: No Title
+    - src: /assets/img/slider/slider3.jpeg
+      title: Lingo!
+      alt: Lingo Logo
+    - data-src: /assets/img/slider/slider4.jpeg
+      title: 
+      alt: No Title
+    - src: /assets/img/slider/slider5.jpeg
+      title: Lingo!
+      alt: Lingo Logo
+    - data-src: /assets/img/slider/slider6.jpeg
+      title: 
+      alt: No Title
+    - src: /assets/img/slider/slider7.jpeg
+      title: Lingo!
+      alt: Lingo Logo
+    - data-src: /assets/img/slider/slider8.jpeg
+      title: 
+      alt: No Title
+    - src: /assets/img/slider/slider9.jpeg
+      title: Lingo!
+      alt: Lingo Logo
+    - data-src: /assets/img/slider/slider10.png
+      title: 
+      alt: No Title
+    - src: /assets/img/slider/slider11.jpeg
+      title: Lingo!
+      alt: Lingo Logo
+    - data-src: /assets/img/slider/slider12.jpeg
+      title: 
+      alt: No Title
+    - src: /assets/img/slider/slider13.jpeg
+      title: Lingo!
+      alt: Lingo Logo
+    - data-src: /assets/img/slider/slider14.jpeg
+      title: 
+      alt: No Title
+    # - src: /assets/img/j1.jpg
+    #   title: Balloons!
+    #   alt: This slider has caption titles
+    # - data-src: /assets/img/j2.jpeg
+    #   title: This slider uses the fade effect
+    #   alt: Instead of the default slide effect
+    # - src: /assets/img/j1.jpg
+    #   title: Balloons!
+    #   alt: This slider has caption titles
+    # - data-src: /assets/img/j2.jpeg
+    #   title: This slider uses the fade effect
+    #   alt: Instead of the default slide effect
+    
   settings:
     height: "'auto'"
     effect: "'fade'"
-
+###################################################################
+    # - src: /assets/img/j1.jpg
+    #   title: Balloons!
+    #   alt: This slider has caption titles
+    # - data-src: /assets/img/j2.jpeg
+    #   title: This slider uses the fade effect
+    #   alt: Instead of the default slide effect
+    # # - data-src: /assets/img/j3.jpg
+    # #   data-src-2x: /img/3@2x.jpg
+    # - src: /assets/img/j3.jpg
+    #   title: Last image had no caption!
+    #   alt: Also, this image has no link
+    # - src: /assets/img/j4.jpg
+    #   title: Last image had no caption!
+    #   alt: Also, this image has no link
+    # - src: /assets/img/j5.jpg
+    #   title: Last image had no caption!
+    #   alt: Also, this image has no link
+###################################################################
 - selector: slider3
   images:
     - src: /assets/img/1.jpg

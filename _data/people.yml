@@ -5,72 +5,217 @@
   bio: Associate Professor
   research_interests: "Natural Language Processing, Machine Learning"
 
-- display_name: "Vidhisha Balachandran"
-  webpage: "https://vidhishanair.github.io"
-  image: /assets/img/people/lingo_iitgn.png
+- display_name: "Shruti Singh"
+  webpage: "https://shruti-singh.github.io/"
+  image: /assets/img/people/shrutisingh.jpeg
   role: grad
-  bio: PhD Student, CMU
+  bio: PhD, IITGn
   research_interests: "Computer Vision, Deep Learning"
 
-- display_name: "Chan Young Park"
-  webpage: "https://chan0park.github.io"
-  image: /assets/img/people/lingo_iitgn.png
+- display_name: "Himanshu Beniwal"
+  webpage: "https://himanshubeniwal.github.io/"
+  image: /assets/img/people/himanshubeniwal.jpeg
   role: grad
-  bio: PhD Student, CMU
+  bio: PhD, IITGn
   research_interests: "Robotics, Human-Robot Interaction"
 
-- display_name: "Mike Smith"
-  webpage: "https://mikesmith.github.io"
-  image: /assets/img/people/lingo_iitgn.png
-  role: mtech
-  bio: MTech Student, CMU
+- display_name: "Pritam Kadasi"
+  webpage: "https://pskadasi.github.io/"
+  image: /assets/img/people/pritamkadasi.jpg
+  role: grad
+  bio: PhD, IITGn
   research_interests: "Artificial Intelligence, Data Science"
 
-- display_name: "Sarah Johnson"
-  webpage: "https://sarahjohnson.github.io"
-  image: /assets/img/people/lingo_iitgn.png
+- display_name: "Kowsik Nandagopan D"
+  webpage: "https://github.com/dkowsikpai"
+  image: /assets/img/people/kowshik.jpg
   role: mtech
-  bio: MTech Student, CMU
+  bio: MTech, IITGn
   research_interests: "Machine Learning, Natural Language Processing"
 
-- display_name: "John Davis"
-  webpage: "https://johndavis.github.io"
+- display_name: "Ankit Yadav"
+  webpage: ""
+  image: /assets/img/people/ankit.png
+  role: mtech
+  bio: MTech, IITGn
+  research_interests: "Machine Learning, Natural Language Processing"
+
+- display_name: "Ritesh Patidar"
+  webpage: "https://github.com/PatidarRitesh"
+  image: /assets/img/people/ritesh.jpg
+  role: mtech
+  bio: MTech, IITGn
+  research_interests: "Machine Learning, Natural Language Processing"
+
+- display_name: "Hitesh Lodwal"
+  webpage: "https://github.com/Hitesh151"
+  image: /assets/img/people/lingo_iitgn.png
+  role: mtech
+  bio: MTech, IITGn
+  research_interests: "Machine Learning, Natural Language Processing"
+
+- display_name: "Rakesh Thakur"
+  webpage: "https://github.com/RakeshthakurIITian"
+  image: /assets/img/people/rakesh.jpeg
+  role: mtech
+  bio: MTech, IITGn
+  research_interests: "Machine Learning, Natural Language Processing"
+
+- display_name: "Siddhesh Dosi"
+  webpage: "https://github.com/git-siddhesh"
+  image: /assets/img/people/siddhesh.jpg
+  role: mtech
+  bio: MTech, IITGn
+  research_interests: "Machine Learning, Natural Language Processing"
+
+- display_name: "Ary Pratap"
+  webpage: ""
   image: /assets/img/people/lingo_iitgn.png
   role: btech
-  bio: BTech Student, CMU
+  bio: BTech, IITGn
   research_interests: "Computer Graphics, Game Development"
 
-- display_name: "Emily Wilson"
-  webpage: "https://emilywilson.github.io"
+- display_name: "Reuben Devanesan"
+  webpage: ""
   image: /assets/img/people/lingo_iitgn.png
   role: btech
-  bio: BTech Student, CMU
-  research_interests: "Web Development, UX Design"
+  bio: BTech, IITGn
+  research_interests: "Computer Graphics, Game Development"
 
-- display_name: "Robert Lee"
-  webpage: "https://robertlee.github.io"
+- display_name: "Paras Gupta"
+  webpage: ""
   image: /assets/img/people/lingo_iitgn.png
+  role: btech
+  bio: BTech, IITGn
+  research_interests: "Computer Graphics, Game Development"
+
+- display_name: "Tarun Sharma"
+  webpage: ""
+  image: /assets/img/people/lingo_iitgn.png
+  role: btech
+  bio: BTech, IITGn
+  research_interests: "Computer Graphics, Game Development"
+
+- display_name: "Shridhar Pawar"
+  webpage: ""
+  image: /assets/img/people/lingo_iitgn.png
+  role: btech
+  bio: BTech, IITGn
+  research_interests: "Computer Graphics, Game Development"
+
+- display_name: "Husain Malawat"
+  webpage: ""
+  image: /assets/img/people/lingo_iitgn.png
+  role: btech
+  bio: BTech, IITGn
+  research_interests: "Computer Graphics, Game Development"
+
+
+- display_name: "Shivam Patel"
+  webpage: ""
+  image: /assets/img/people/shivam.jpg
+  role: alum
+  bio: JRF
+  research_interests: "Computer Networks, Cybersecurity"
+
+- display_name: "Ankit Kakadiya"
+  webpage: "https://lindabrown.github.io"
+  image: /assets/img/people/ankitjrf.png
+  role: alum
+  bio: JRF
+  research_interests: "Artificial Intelligence, Data Science"
+
+- display_name: "Harsh Desai"
+  webpage: ""
+  image: /assets/img/people/harsh.jpg
+  role: alum
+  bio: JRF
+  research_interests: "Computer Vision, Machine Learning"
+
+- display_name: "Shoaib Alam"
+  webpage: "https://github.com/alamshoaib134"
+  image: /assets/img/people/shoaib.jpg
   role: alum
   bio: Alumnus, CMU
   research_interests: "Computer Networks, Cybersecurity"
 
-- display_name: "Linda Brown"
-  webpage: "https://lindabrown.github.io"
-  image: /assets/img/people/lingo_iitgn.png
+- display_name: "Soumita Kundu"
+  webpage: ""
+  image: /assets/img/people/soumita.jpg
   role: alum
-  bio: Alumna, CMU
+  bio: MTech
   research_interests: "Artificial Intelligence, Data Science"
 
-- display_name: "Peter Wilson"
-  webpage: "https://peterwilson.github.io"
-  image: /assets/img/people/lingo_iitgn.png
-  role: grad
-  bio: PhD Student, CMU
-  research_interests: "Computer Vision, Machine Learning"
+- display_name: "Vivek Srivastav"
+  webpage: ""
+  image: /assets/img/people/vivek.jpg
+  role: alum
+  bio: MTech
+  research_interests: "Computer Networks, Cybersecurity"
 
-- display_name: "Alice Smith"
-  webpage: "https://alicesmith.github.io"
+- display_name: "Sayak Chowdhury"
+  webpage: ""
+  image: /assets/img/people/sayak.jpg
+  role: alum
+  bio: MTech
+  research_interests: "Artificial Intelligence, Data Science"
+
+- display_name: "Heer Ambavi"
+  webpage: ""
+  image: /assets/img/people/heer.jpg
+  role: alum
+  bio: BTech
+  research_interests: "Computer Networks, Cybersecurity"
+
+- display_name: "Naman Jain"
+  webpage: ""
   image: /assets/img/people/lingo_iitgn.png
-  role: grad
-  bio: PhD Student, CMU
-  research_interests: "Natural Language Processing, Information Retrieval"
+  role: alum
+  bio: BTech
+  research_interests: "Artificial Intelligence, Data Science"
+
+
+- display_name: "Pratik Kayal"
+  webpage: ""
+  image: /assets/img/people/pratik.jpeg
+  role: alum
+  bio: BTech
+  research_interests: "Computer Networks, Cybersecurity"
+
+- display_name: "Soham Pachpande"
+  webpage: ""
+  image: /assets/img/people/lingo_iitgn.png
+  role: alum
+  bio: BTech
+  research_interests: "Artificial Intelligence, Data Science"
+
+- display_name: "Abhavya Chandra"
+  webpage: ""
+  image: /assets/img/people/abhavya.jpg
+  role: alum
+  bio: BTech
+  research_interests: "Artificial Intelligence, Data Science"
+
+- display_name: "Kunal Verma"
+  webpage: ""
+  image: /assets/img/people/lingo_iitgn.png
+  role: alum
+  bio: BTech
+  research_interests: "Artificial Intelligence, Data Science"
+
+- display_name: "Chandani Davda"
+  webpage: ""
+  image: /assets/img/people/lingo_iitgn.png
+  role: alum
+  bio: Project Assistant
+  research_interests: "Gandhipedia"
+
+- display_name: "Mansi Rana"
+  webpage: ""
+  image: /assets/img/people/mansi.jpg
+  role: alum
+  bio: Project Assistant
+  research_interests: "Gandhipedia"
+
+
+
