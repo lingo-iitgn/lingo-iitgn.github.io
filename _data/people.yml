@@ -17,14 +17,14 @@
   image: /assets/img/people/himanshubeniwal.jpeg
   role: grad
   bio: PhD, IITGn
-  research_interests: "Robotics, Human-Robot Interaction"
+  research_interests: "Poisoning Attacks, Model Editing, Secure and Intrepretable NLP"
 
 - display_name: "Pritam Kadasi"
   webpage: "https://pskadasi.github.io/"
   image: /assets/img/people/pritamkadasi.jpg
   role: grad
   bio: PhD, IITGn
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Human Label Variation, Modeling Ambiguity, Multi-Annotator Modeling"
 
 - display_name: "Kowsik Nandagopan D"
   webpage: "https://github.com/dkowsikpai"
@@ -34,18 +34,18 @@
   research_interests: "Machine Learning, Natural Language Processing"
 
 - display_name: "Ankit Yadav"
-  webpage: ""
+  webpage: "https://www.linkedin.com/in/ankit-yadav-7a610b154/"
   image: /assets/img/people/ankit.png
   role: mtech
   bio: MTech, IITGn
-  research_interests: "Machine Learning, Natural Language Processing"
+  research_interests: "RLHF, Evaluation and Benchmarking of LLMs"
 
 - display_name: "Ritesh Patidar"
-  webpage: "https://github.com/PatidarRitesh"
+  webpage: "https://www.linkedin.com/in/ritesh-patidar-615a35162/"
   image: /assets/img/people/ritesh.jpg
   role: mtech
   bio: MTech, IITGn
-  research_interests: "Machine Learning, Natural Language Processing"
+  research_interests: "Feature Extraction of Scientific Documnets"
 
 - display_name: "Hitesh Lodwal"
   webpage: "https://github.com/Hitesh151"
@@ -62,11 +62,11 @@
   research_interests: "Machine Learning, Natural Language Processing"
 
 - display_name: "Siddhesh Dosi"
-  webpage: "https://github.com/git-siddhesh"
+  webpage: "https://git-siddhesh.github.io/"
   image: /assets/img/people/siddhesh.jpg
   role: mtech
   bio: MTech, IITGn
-  research_interests: "Machine Learning, Natural Language Processing"
+  research_interests: "Modeling Domain Specific LLMs Under Resource Constraints"
 
 - display_name: "Ary Pratap"
   webpage: ""
@@ -97,18 +97,18 @@
   research_interests: "Computer Graphics, Game Development"
 
 - display_name: "Shridhar Pawar"
-  webpage: ""
+  webpage: "https://www.linkedin.com/in/shridhar-pawar-b58b16190/"
   image: /assets/img/people/lingo_iitgn.png
   role: btech
   bio: BTech, IITGn
-  research_interests: "Computer Graphics, Game Development"
+  research_interests: "Fast and Efficient Frameworks for LLM Inferencing"
 
 - display_name: "Husain Malawat"
-  webpage: ""
+  webpage: "https://in.linkedin.com/in/husain-malwat-371207226"
   image: /assets/img/people/lingo_iitgn.png
   role: btech
   bio: BTech, IITGn
-  research_interests: "Computer Graphics, Game Development"
+  research_interests: "Dataset Curation, Model Interpretability"
 
 
 - display_name: "Shivam Patel"
