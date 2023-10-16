@@ -34,7 +34,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 |**Processor**|2 × Intel Xeon Gold 6136|2 × Intel Xeon 6230|2 × Intel Xeon Gold 6226|
 |**Cores**|2 × 12 cores|2 × 12 cores|2 × 12 cores|
 |**Processor Based Frequency**|3.00 GHz|2.1 GHz|2.7 GHz|
-|**Maximum Memory Speed**|2666 MHz||2933 MHz|
+|**Maximum Memory Speed**|2666 MHz|-|2933 MHz|
 |**GPU Statistics**||||
 |**Processor**|2 × Nvidia RTX 2080 Ti|-|4 × Nvidia Tesla V 100 32 GB|
 |**Cores**|4352 cuda cores|-|NVIDIA Tensor Cores- 640|
