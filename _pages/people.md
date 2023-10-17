@@ -55,6 +55,18 @@ subtitle:
 
 ---
 
+## Staff
+
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% for person in site.data.people %}
+    {% if person.role == 'staff' %}
+      {% include people_horizontal.html name=person.display_name affiliation=person.bio url=person.webpage img=person.image research_interests=person.research_interests %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+---
+
 ## Alumni
 
 <div class="row row-cols-3 projects pt-3 pb-3">
