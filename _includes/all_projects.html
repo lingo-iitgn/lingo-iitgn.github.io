@@ -1,0 +1,89 @@
+<div class="container mt-4">
+    <div class="row">
+        {% assign ongoing_projects = site.data.projects | where: "status", "current" %}
+        {% for project in ongoing_projects %}
+            <div class="col-lg-4 col-md-4 mb-4">
+                <div class="card text-center">
+                    <img src="{{ project.img | relative_url }}" class="card-img-top" alt="{{ project.agency }} Logo" style="max-width: 100px;">
+                    <div class="card-body">
+                        <h5 class="card-title h4">{{ project.project_name }}</h5>
+                        <p class="text-center"><strong>Status:</strong> Ongoing</p>
+                        {% if project.agency %}
+                            <hr class="mt-3 mb-2"> <!-- Title horizontal line -->
+                            <div class="element-title h5">Agency</div>
+                            <div class="element-info">{{ project.agency }}</div>
+                        {% endif %}
+                        {% if project.duration %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Duration</div>
+                            <div class="element-info">{{ project.duration }}</div>
+                        {% endif %}
+                        {% if project.sanctioned_amount %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Sanctioned Amount</div>
+                            <div class="element-info">$ {{ project.sanctioned_amount | number_to_human_size }}</div>
+                        {% endif %}
+                        {% if project.role %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Role</div>
+                            <div class="element-info">{{ project.role }}</div>
+                        {% endif %}
+                        {% if project.url %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">URL</div>
+                            <div class="element-info"><a href="{{ project.url }}" target="_blank">Visit Project</a></div>
+                        {% endif %}
+                        {% if project.acceptance %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Acceptance</div>
+                            <div class="element-info">{{ project.acceptance }}</div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+        <div class="col-12 text-center mb-4"><hr></div>
+        {% assign past_projects = site.data.projects | where: "status", "past" %}
+        {% for project in past_projects %}
+            <div class="col-lg-4 col-md-4 mb-4">
+                <div class="card text-center">
+                    <img src="{{ project.img | relative_url }}" class="card-img-top" alt="{{ project.agency }} Logo" style="max-width: 100px;">
+                    <div class="card-body">
+                        <h5 class="card-title h4">{{ project.project_name }}</h5>
+                        <p class="text-center"><strong>Status:</strong> Past</p>
+                        {% if project.agency %}
+                            <hr class="mt-3 mb-2"> <!-- Title horizontal line -->
+                            <div class="element-title h5">Agency</div>
+                            <div class="element-info">{{ project.agency }}</div>
+                        {% endif %}
+                        {% if project.duration %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Duration</div>
+                            <div class="element-info">{{ project.duration }}</div>
+                        {% endif %}
+                        {% if project.sanctioned_amount %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Sanctioned Amount</div>
+                            <div class="element-info">$ {{ project.sanctioned_amount | number_to_human_size }}</div>
+                        {% endif %}
+                        {% if project.role %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Role</div>
+                            <div class="element-info">{{ project.role }}</div>
+                        {% endif %}
+                        {% if project.url %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">URL</div>
+                            <div class="element-info"><a href="{{ project.url }}" target="_blank">Visit Project</a></div>
+                        {% endif %}
+                        {% if project.acceptance %}
+                            <hr class="mt-3 mb-2"> <!-- Element horizontal line -->
+                            <div class="element-title h5">Acceptance</div>
+                            <div class="element-info">{{ project.acceptance }}</div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>

@@ -7,28 +7,4 @@ nav_order: 7
 subtitle: images and videos
 ---
 
-<div class="container">
-  <div class="row">
-    {% for occasion in site.data.gallery %}
-      <div class="col-md-12">
-        <div class="occasion">
-          <h2>{{ occasion.occasion.title }}</h2>
-          <p>Date: {{ occasion.occasion.date }}</p>
-          <div class="images">
-            <div class="row">
-              {% for image in occasion.occasion.images %}
-                <div class="col-md-3">
-                  <div class="image mt-3">
-                    {% include figure.html path=image.src class="img-fluid rounded z-depth-1" alt=image.alt zoomable=true %}
-                    <div class="caption text-center">{{ image.alt }}</div>
-                  </div>
-                </div>
-              {% endfor %}
-            </div>
-          </div>
-          <hr> <!-- Horizontal line to separate occasions -->
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-</div>
+{% include gallery.html %}

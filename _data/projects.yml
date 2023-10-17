@@ -1,0 +1,49 @@
+- project_name: "Project A"
+  agency: "National Science Foundation"
+  duration: "2020-2023"
+  sanctioned_amount: 250000
+  role: "Principal Investigator"
+  url: "https://www.example.com/project-a"
+  acceptance: "ICLR 2023"
+  status: "current"
+  img: "/assets/img/stars.png"
+
+- project_name: "Project B"
+  agency: "National Institutes of Health"
+  duration: "2019-2022"
+  sanctioned_amount: 180000
+  role: "Co-Investigator"
+  url: "https://www.example.com/project-b"
+  acceptance: "CVPR 2022"
+  status: "past"
+  img: "/assets/img/iitgn_logo.png"
+
+- project_name: "Project C"
+  agency: "Department of Energy"
+  duration: "2021-2024"
+  sanctioned_amount: 300000
+  role: "Collaborator"
+  url: "https://www.example.com/project-c"
+  acceptance: "ECCV 2024"
+  status: "current"
+  img: "/assets/img/iitgn_logo.png"
+
+- project_name: "Project D"
+  agency: "National Aeronautics and Space Administration"
+  duration: "2018-2021"
+  sanctioned_amount: 220000
+  role: "Research Assistant"
+  url: "https://www.example.com/project-d"
+  acceptance: "None"
+  status: "past"
+  img: "/assets/img/iitgn_logo.png"
+
+- project_name: "Project E"
+  agency: "National Endowment for the Humanities"
+  duration: "2022-2025"
+  sanctioned_amount: 160000
+  role: "Lead Researcher"
+  url: "https://www.example.com/project-e"
+  acceptance: "NeurIPS 2023"
+  status: "current"
+  img: "/assets/img/iitgn_logo.png"
