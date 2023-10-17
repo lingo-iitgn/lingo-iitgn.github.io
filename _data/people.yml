@@ -9,105 +9,105 @@
   webpage: "https://shruti-singh.github.io/"
   image: /assets/img/people/shrutisingh.jpeg
   role: grad
-  bio: PhD, IITGn
-  research_interests: "Computer Vision, Deep Learning"
+  bio: PhD
+  research_interests: "Natural Language Processing"
 
 - display_name: "Himanshu Beniwal"
   webpage: "https://himanshubeniwal.github.io/"
   image: /assets/img/people/himanshubeniwal.jpeg
   role: grad
-  bio: PhD, IITGn
+  bio: PhD
   research_interests: "Poisoning Attacks, Model Editing, Secure and Intrepretable NLP"
 
 - display_name: "Pritam Kadasi"
   webpage: "https://pskadasi.github.io/"
   image: /assets/img/people/pritamkadasi.jpg
   role: grad
-  bio: PhD, IITGn
+  bio: PhD
   research_interests: "Human Label Variation, Modeling Ambiguity, Multi-Annotator Modeling"
 
 - display_name: "Kowsik Nandagopan D"
   webpage: "https://github.com/dkowsikpai"
   image: /assets/img/people/kowshik.jpg
   role: mtech
-  bio: MTech, IITGn
-  research_interests: "Machine Learning, Natural Language Processing"
+  bio: MTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Ankit Yadav"
   webpage: "https://www.linkedin.com/in/ankit-yadav-7a610b154/"
   image: /assets/img/people/ankit.png
   role: mtech
-  bio: MTech, IITGn
+  bio: MTech
   research_interests: "RLHF, Evaluation and Benchmarking of LLMs"
 
 - display_name: "Ritesh Patidar"
   webpage: "https://www.linkedin.com/in/ritesh-patidar-615a35162/"
   image: /assets/img/people/ritesh.jpg
   role: mtech
-  bio: MTech, IITGn
-  research_interests: "Feature Extraction of Scientific Documnets"
+  bio: MTech
+  research_interests: "Feature Extraction of Scientific Documents"
 
 - display_name: "Hitesh Lodwal"
   webpage: "https://github.com/Hitesh151"
-  image: /assets/img/people/lingo_iitgn.png
+  image: /assets/img/people/123.png
   role: mtech
-  bio: MTech, IITGn
-  research_interests: "Machine Learning, Natural Language Processing"
+  bio: MTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Rakesh Thakur"
   webpage: "https://github.com/RakeshthakurIITian"
   image: /assets/img/people/rakesh.jpeg
   role: mtech
-  bio: MTech, IITGn
-  research_interests: "Machine Learning, Natural Language Processing"
+  bio: MTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Siddhesh Dosi"
   webpage: "https://git-siddhesh.github.io/"
   image: /assets/img/people/siddhesh.jpg
   role: mtech
-  bio: MTech, IITGn
+  bio: MTech
   research_interests: "Modeling Domain Specific LLMs Under Resource Constraints"
 
 - display_name: "Ary Pratap"
   webpage: ""
   image: /assets/img/people/123.png
   role: btech
-  bio: BTech, IITGn
-  research_interests: "Computer Graphics, Game Development"
+  bio: BTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Reuben Devanesan"
   webpage: ""
   image: /assets/img/people/123.png
   role: btech
-  bio: BTech, IITGn
-  research_interests: "Computer Graphics, Game Development"
+  bio: BTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Paras Gupta"
   webpage: ""
   image: /assets/img/people/123.png
   role: btech
-  bio: BTech, IITGn
-  research_interests: "Computer Graphics, Game Development"
+  bio: BTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Tarun Sharma"
   webpage: ""
   image: /assets/img/people/123.png
   role: btech
-  bio: BTech, IITGn
-  research_interests: "Computer Graphics, Game Development"
+  bio: BTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Shridhar Pawar"
   webpage: "https://www.linkedin.com/in/shridhar-pawar-b58b16190/"
   image: /assets/img/people/123.png
   role: btech
-  bio: BTech, IITGn
+  bio: BTech
   research_interests: "Fast and Efficient Frameworks for LLM Inferencing"
 
 - display_name: "Husain Malawat"
   webpage: "https://in.linkedin.com/in/husain-malwat-371207226"
   image: /assets/img/people/123.png
   role: btech
-  bio: BTech, IITGn
+  bio: BTech
   research_interests: "Dataset Curation, Model Interpretability"
 
 
@@ -116,63 +116,63 @@
   image: /assets/img/people/shivam.jpg
   role: alum
   bio: JRF
-  research_interests: "Computer Networks, Cybersecurity"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Ankit Kakadiya"
   webpage: "https://lindabrown.github.io"
   image: /assets/img/people/ankitjrf.png
   role: alum
   bio: JRF
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Harsh Desai"
   webpage: ""
   image: /assets/img/people/harsh.jpg
   role: alum
   bio: JRF
-  research_interests: "Computer Vision, Machine Learning"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Shoaib Alam"
   webpage: "https://github.com/alamshoaib134"
   image: /assets/img/people/shoaib.jpg
   role: alum
-  bio: Alumnus, CMU
-  research_interests: "Computer Networks, Cybersecurity"
+  bio: MTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Soumita Kundu"
   webpage: ""
   image: /assets/img/people/soumita.jpg
   role: alum
   bio: MTech
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Vivek Srivastav"
   webpage: ""
   image: /assets/img/people/vivek.jpg
   role: alum
   bio: MTech
-  research_interests: "Computer Networks, Cybersecurity"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Sayak Chowdhury"
   webpage: ""
   image: /assets/img/people/sayak.jpg
   role: alum
   bio: MTech
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Heer Ambavi"
   webpage: ""
   image: /assets/img/people/heer.jpg
   role: alum
   bio: BTech
-  research_interests: "Computer Networks, Cybersecurity"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Naman Jain"
   webpage: ""
   image: /assets/img/people/123.png
   role: alum
   bio: BTech
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Natural Language Processing"
 
 
 - display_name: "Pratik Kayal"
@@ -180,28 +180,28 @@
   image: /assets/img/people/pratik.jpeg
   role: alum
   bio: BTech
-  research_interests: "Computer Networks, Cybersecurity"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Soham Pachpande"
   webpage: ""
   image: /assets/img/people/123.png
   role: alum
   bio: BTech
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Abhavya Chandra"
   webpage: ""
   image: /assets/img/people/abhavya.jpg
   role: alum
   bio: BTech
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Kunal Verma"
   webpage: ""
   image: /assets/img/people/123.png
   role: alum
   bio: BTech
-  research_interests: "Artificial Intelligence, Data Science"
+  research_interests: "Natural Language Processing"
 
 - display_name: "Chandani Davda"
   webpage: ""
