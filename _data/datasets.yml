@@ -1,0 +1,17 @@
+- title: "Subject wise papers from OMICS and BMC"
+  description: "This research explores various machine learning algorithms and their applications."
+  authors:
+    - "John Doe"
+    - "Jane Smith"
+  dataset_url: "https://example.com/dataset-1"
+- title: "Metadata from OMICS and BMC"
+  description: "An analysis of sentiment analysis techniques in natural language processing."
+  authors:
+    - "Alice Johnson"
+  dataset_url: "https://example.com/dataset-2"
+- title: "PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus For Machine Translation"
+  description: "Investigating the use of deep learning models for image recognition tasks."
+  authors:
+    - "Bob Williams"
+    - "Eve Brown"
+  dataset_url: "https://example.com/dataset-3"

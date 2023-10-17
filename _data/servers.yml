@@ -1,0 +1,41 @@
+- name: LINGO PHOENIX
+  model_name: Supermicro GPU Server
+  cpu:
+    processor: 2 × Intel Xeon Gold 6136
+    cores: 2 × 12 cores
+    base_frequency: 3.00 GHz
+    memory_speed: 2666 MHz
+  gpu:
+    processor: 2 × 12GB Nvidia RTX 2080 Ti
+    cores: 4352 cuda cores
+  ram: 256 GB
+  ssd: 2 × 240 GB
+  harddisk: 2 × 8 TB, 1 × 16 TB
+  nas: 1 × 20 TB
+  os: Cent 7.6
+
+- name: LINGO WEB SERVER
+  model_name: Tyrone Web Server – 1U
+  cpu:
+    processor: 2 × Intel Xeon 6230
+    cores: 2 × 12 cores
+    base_frequency: 2.1 GHz
+  ram: 256 GB
+  ssd: 2 × 512 GB
+  harddisk: 2 × 4 TB SATA
+  os: Cent 7.6
+
+- name: LINGO LEXICO
+  model_name: Supermicro GPU Server
+  cpu:
+    processor: 2 × Intel Xeon Gold 6226
+    cores: 2 × 12 cores
+    base_frequency: 2.7 GHz
+    memory_speed: 2933 MHz
+  gpu:
+    processor: 4 × Nvidia Tesla V100 32 GB
+    cores: NVIDIA Tensor Cores- 640
+    ram: 768 GB
+  ssd: 2 × 3.84 GB
+  harddisk: 2 × 8 TB
+  os: Ubuntu 20.04
