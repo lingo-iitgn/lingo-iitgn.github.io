@@ -27,11 +27,11 @@
   research_interests: "Human Label Variation, Modeling Ambiguity, Multi-Annotator Modeling"
 
 - display_name: "Kowsik Nandagopan D"
-  webpage: "https://github.com/dkowsikpai"
+  webpage: "https://dkowsikpai.github.io/"
   image: /assets/img/people/kowshik.jpg
   role: mtech
   bio: MTech
-  research_interests: "Natural Language Processing"
+  research_interests: "Model Editing, Model Poisoning, Conversation Agents"
 
 - display_name: "Ankit Yadav"
   webpage: "https://www.linkedin.com/in/ankit-yadav-7a610b154/"
@@ -112,7 +112,7 @@
 
 - display_name: "Mihir Patel"
   webpage: "https://www.linkedin.com/in/mihir-patel22/"
-  image: /assets/img/people/123.png
+  image: /assets/img/people/mihir.jpeg
   role: staff
   bio: Project Assistant
   research_interests: "Gandhipedia"
