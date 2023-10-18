@@ -6,7 +6,7 @@
   # url: ""
   # acceptance: ""
   status: "current"
-  img: "/assets/img/sponsors/serb_logo.png"
+  img: "/assets/img/sponsors/serb.png"
 
 - project_name: "CSE FIST"
   agency: "Department of Science & Technology"
@@ -16,7 +16,7 @@
   # url: ""
   # acceptance: "CVPR 2022"
   status: "current"
-  img: "/assets/img/sponsors/dst_logo.png"
+  img: "/assets/img/sponsors/dst.png"
 
 - project_name: "Physics Guided Data Science Approach for Predictive Understanding of Hydrological Processes"
   agency: "Scheme for Transformational and Advanced Research in Sciences (STARS)"
@@ -66,7 +66,7 @@
   # url: ""
   # acceptance: ""
   status: "past"
-  img: "/assets/img/sponsors/serb_logo.png"
+  img: "/assets/img/sponsors/serb.png"
 
 - project_name: "AGRIBOT : Agriculture-Specific Question Answer System"
   agency: "Self Sponored"
@@ -96,4 +96,4 @@
   url: "https://github.com/ocrplusplus/ocrplusplus"
   acceptance: "GYTI 2017 Award Winner"
   status: "past"
-  img: "/assets/img/sponsors/coling2016.png"
+  # img: "/assets/img/sponsors/coling2016.png"
