@@ -6,16 +6,16 @@
 - date: 2019-04-04
   paper_title: RNNs as Language Models Paper
   paper_link: 
-  attachments_link: 
+  attachments_link: https://arxiv.org/abs/1502.00512
   speaker: Naman Jain
 - date: 2019-04-11
   paper_title: Word2Vec and GloVe
-  paper_link: 
-  attachments_link: 
+  paper_link: https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
+  attachments_link: https://aclanthology.org/D14-1162/
   speaker: Ayush Garg
 - date: 2019-04-25
   paper_title: BERT
-  paper_link: 
+  paper_link: https://aclanthology.org/N19-1423/
   attachments_link: 
   speaker: Pratik Kayal
 - date: 2019-08-28
@@ -25,7 +25,7 @@
   speaker: Shruti Singh
 - date: 2019-09-03
   paper_title: "Gene2vec: Distributed Representation of Genes Based on Co-Expression"
-  paper_link: 
+  paper_link: https://pubmed.ncbi.nlm.nih.gov/30712510/
   attachments_link: 
   speaker: Abhavya Chandra
 - date: 2019-09-25
@@ -66,12 +66,12 @@
 - date: 2023-04-05
   paper_title: Scaling Laws for Neural Language Models
   paper_link: https://arxiv.org/abs/2001.08361
-  # attachments_link: https://docs.google.com/presentation/d/11GGbDFOBOkjwo8O_aitVerOAaJ5RmTADn965txc8ouA/edit#slide=id.p"
+  attachments_link: https://docs.google.com/presentation/d/11GGbDFOBOkjwo8O_aitVerOAaJ5RmTADn965txc8ouA/edit#slide=id.p"
   speaker: Shruti Singh
 - date: 2023-04-12
   paper_title: Understanding Dataset Difficulty with 𝓥-Usable Information
   paper_link: https://arxiv.org/pdf/2110.08420.pdf
-  # attachments_link: https://docs.google.com/presentation/d/1Vnaaf5sLQBH3LUDRkmq-TqfiwqB3OS0BuyYaHGYIa-Y/edit#slide=id.p"
+  attachments_link: https://docs.google.com/presentation/d/1Vnaaf5sLQBH3LUDRkmq-TqfiwqB3OS0BuyYaHGYIa-Y/edit#slide=id.p"
   speaker: Pritam Kadasi
 - date: 2023-04-19
   paper_title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
