@@ -9,10 +9,12 @@ subtitle:
 
 ## Faculty
 
-<div class="row row-cols-3 projects pt-3 pb-3">
+<div class="row projects pt-1 pb-1">
   {% for person in site.data.people %}
     {% if person.role == 'faculty' %}
-      {% include people.html name=person.display_name affiliation=person.bio url=person.webpage img=person.image research_interests=person.research_interests %}
+      <div class="col-sm-4">
+        {% include people.html name=person.display_name affiliation=person.bio url=person.webpage img=person.image research_interests=person.research_interests %}
+      </div>
     {% endif %}
   {% endfor %}
 </div>
@@ -69,10 +71,13 @@ subtitle:
 
 ## Alumni
 
-<div class="row row-cols-3 projects pt-3 pb-3">
+<div class="row projects pt-1 pb-1">
   {% for person in site.data.people %}
     {% if person.role == 'alum' %}
-      {% include alumni.html name=person.display_name affiliation=person.bio url=person.webpage img=person.image research_interests=person.research_interests %}
+      <div class="col-sm-4">
+        {% include people.html name=person.display_name affiliation=person.bio url=person.webpage img=person.image research_interests=person.research_interests %}
+      </div>
     {% endif %}
   {% endfor %}
+  <div class="w-100"></div>
 </div>
