@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Pritam on his paper acceptance at Findings of [EMNLP 2023](https://2023.emnlp.org/), co-authored by Prof. Mayank. Good work :sparkles:
+Congratulations to Pritam and Prof. Mayank on their paper acceptance at Findings of [EMNLP 2023](https://2023.emnlp.org/). Good work :sparkles:
