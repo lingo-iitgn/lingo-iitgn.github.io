@@ -3,66 +3,22 @@
     date: "2023-09-05"
     images:
       - src: "/assets/img/lingo_gallery/teacherday.jpeg"
-        alt: "Students with Prof. Mayank at IIT Gandhinagar"
-      # - src: "/assets/img/2.jpg"
-      #   alt: "Hiking in the Mountains"
-      # - src: "/assets/img/3.jpg"
-      #   alt: "Exploring the City"
-
+        alt: "Lingo group with Prof. Mayank at his office"
+     
 - occasion:
-    title: "An Annual Get-Together of LINGO Group!"
+    title: "An Annual Get-Together"
     date: "2023-07-15"
     images:
       
       - src: "assets/img/lingo_gallery/dinner2.png"
-        alt: "Lingo Group"
+        alt: "Lingo with Prof. Mayank and family"
       - src: "assets/img/lingo_gallery/phd.jpg"
-        alt: "Prof. Mayank and family with PhD Students"
+        alt: "PhD students - Shruti, Pritam to the left and Himanshu to the right"
       - src: "assets/img/lingo_gallery/mtech.jpg"
-        alt: "Prof. Mayank and family with MTech Students"
+        alt: "MTech students - Rakesh, Ankit to the left, Siddesh, Ritesh and Hitesh to the right"
       - src: "assets/img/lingo_gallery/dinner1.png"
-        alt: "Dinner Time..."
+        alt: "Dinner Time :yum:"
       - src: "assets/img/lingo_gallery/selfie.jpg"
-        alt: "Mandatory Selfie...!"
+        alt: "just waiting for the food to arrive, meanwhile..."
       - src: "assets/img/lingo_gallery/boys.jpg"
-        alt: ""
-
-# - occasion:
-#     title: "Graduation Day 1"
-#     date: "2023-05-30"
-#     images:
-#       - src: "/assets/img/1.jpg"
-#         alt: "Receiving Diplomas"
-#       - src: "/assets/img/2.jpg"
-#         alt: "Celebration with Friends"
-
-# - occasion:
-#     title: "Summer Vacation 2"
-#     date: "2023-07-15"
-#     images:
-#       - src: "/assets/img/1.jpg"
-#         alt: "At the Beach"
-#       - src: "/assets/img/2.jpg"
-#         alt: "Hiking in the Mountains"
-#       - src: "/assets/img/3.jpg"
-#         alt: "Exploring the City"
-
-# - occasion:
-#     title: "Family Reunion 3"
-#     date: "2023-08-20"
-#     images:
-#       - src: "/assets/img/1.jpg"
-#         alt: "Gmno"
-#       - src: "/assets/img/2.jpg"
-#         alt: "ghrt"
-#       - src: "/assets/img/3.jpg"
-#         alt: "Games and Fun"
-
-# - occasion:
-#     title: "Graduation Day 4"
-#     date: "2023-05-30"
-#     images:
-#       - src: "/assets/img/1.jpg"
-#         alt: "rtgrtrty"
-#       - src: "/assets/img/2.jpg"
-#         alt: "nghg"
+        alt: "from the left: Ritesh, Pritam, Hitesh, Siddesh, Kowsik, Himanshu and Ankit"

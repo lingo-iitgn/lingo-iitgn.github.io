@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Professor Mayank received award for his Microsoft Accelerate Foundation Models Research Programme application. 🎉
+Congratulations to Prof. Mayank on being awarded grant by Microsoft Accelerate Foundation Models Research Programme 🎉

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[The paper got accepted at Findings of EMNLP 2023, authored by Pritam Kadasi.](https://2023.emnlp.org/)
+Congratulations to Pritam on his paper acceptance at Findings of [EMNLP 2023](https://2023.emnlp.org/), co-authored by Prof. Mayank. Good work :sparkles:

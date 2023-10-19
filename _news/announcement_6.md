@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-During the month of June and July Siddhesh Dosi did his internship as Summer Machine Learning    Intern at ThirdAI Corp. 🥳
+During the month of June and July Siddhesh Dosi did his internship as Summer Machine Learning   Intern at ThirdAI Corp. 🥳

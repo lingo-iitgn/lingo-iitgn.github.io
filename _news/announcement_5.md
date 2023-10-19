@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-During the month of September Jivitesh Soneji did his internship as Summer Datascience Intern at Decimal Point Analytics 🥳
+During the month of September Jivitesh Soneji did his internship as Summer Data Science Intern at Decimal Point Analytics 🥳
