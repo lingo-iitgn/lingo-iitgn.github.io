@@ -58,11 +58,7 @@
   paper_link: https://arxiv.org/abs/2211.05100
   attachments_link: https://docs.google.com/presentation/d/17D8km5ogpEya86UAlNvq868hEMt0RwkxorPwsl9WPe8/edit?usp=sharing
   speaker: Siddesh Doshi & Hitesh Lodwal
-- date: 2023-04-05
-  paper_title: Training Compute-Optimal Large Language Models [DeepMInd]
-  paper_link: https://arxiv.org/pdf/2203.15556.pdf
-  attachments_link:
-  speaker: Shruti Singh
+
 - date: 2023-04-05
   paper_title: Scaling Laws for Neural Language Models
   paper_link: https://arxiv.org/abs/2001.08361
@@ -81,12 +77,12 @@
 - date: 2023-05-09
   paper_title: Improving Language Understanding by Generative Pre-Training
   paper_link: https://shorturl.at/hrzLX
-  attachments_link: 
+  attachments_link: https://docs.google.com/presentation/d/1IYW1V96GEInGdVwmLfv6_8pvHxjnT_40BHaIw5YASd8/edit?usp=sharing
   speaker: Ankit Yadav
 - date: 2023-05-19
   paper_title: "Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation"
   paper_link: https://arxiv.org/abs/2108.12409
-  attachments_link: 
+  attachments_link: https://docs.google.com/presentation/d/1f0j7QyAC6UJ3bHThGw0DgxPF8XNQ8MLQ4B8txL5AzTU/edit?usp=sharing
   speaker: Rakesh Thakur
 - date: 2023-05-26
   paper_title: An introduction to Reinforcement Learning from Human Feedback (RLHF)
@@ -101,7 +97,7 @@
 - date: 2023-08-17
   paper_title: Auditing and Robustifying COVID-19 Misinformation Datasets via Anticontent Sampling
   paper_link: https://ojs.aaai.org/index.php/AAAI/article/view/26780
-  attachments_link: 
+  attachments_link: https://docs.google.com/presentation/d/1adFRNJUJ78tGvYxG0oILlYd_UI8sYFLytIWKPulz5MU/edit?usp=sharing
   speaker: Yash Kokane
 
 - date: 2023-08-31
@@ -112,18 +108,18 @@
 - date: 2023-09-14
   paper_title: Emergent Abilities of Large Language Models
   paper_link: https://arxiv.org/abs/2206.07682
-  attachments_link: 
+  attachments_link: https://docs.google.com/presentation/d/1voo_zlS7VP9KjEyrPkdgncSXuytlhZ5FK5i424clgIs/edit?usp=sharing
   speaker: Rakesh Thakur
 
 - date: 2023-09-21
   paper_title: "Evaluating Large Language Models Trained on Code"
   paper_link: https://arxiv.org/abs/2107.03374
-  attachments_link: 
+  attachments_link: https://docs.google.com/presentation/d/1vupxBnhLfqmonXvpZnzYBn7A-HPzQX1bK0CUZYgXbSk/edit?usp=sharing
   speaker: Ankit Yadav
 - date: 2023-10-05
   paper_title: "How Crowd Worker Factors Influence Subjective Annotations: A Study of Tagging Misogynistic Hate Speech in Tweets"
   paper_link: https://arxiv.org/abs/2309.01288
-  attachments_link: 
+  attachments_link: https://docs.google.com/presentation/d/1A3-6ECWg5-EWDOtnSXiOJ5L-vsxTT1vsIWiZ-euGKtw/edit?usp=sharing
   speaker: Suhani Mittal
 
 - date: 2023-10-19
