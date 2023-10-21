@@ -1,6 +1,6 @@
 ---
 layout: post
-title: how to run your first job on paramanata?
+title: how to run your first job on paramananta?
 date: 2023-10-20 08:00:00-0530
 description: a beginner's guide
 tags: server
