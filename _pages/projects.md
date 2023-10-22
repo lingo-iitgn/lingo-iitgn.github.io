@@ -8,4 +8,4 @@ nav_order: 2
 ---
 
 
-{% include all_projects.html %}
+{% include projects.html %}
