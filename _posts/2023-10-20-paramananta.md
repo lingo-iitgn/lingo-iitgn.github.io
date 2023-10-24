@@ -8,6 +8,7 @@ categories: academics
 giscus_comments: false
 related_posts: false
 featured: false
+author: Pritam Kadasi
 toc:
   sidebar: left
 ---
