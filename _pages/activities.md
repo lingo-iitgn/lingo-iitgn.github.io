@@ -8,6 +8,6 @@ children:
     - title: reading group
       permalink: /reading/
     - title: divider
-    - title: gallery
-      permalink: /gallery/
+    - title: photo album
+      permalink: /album/
 ---
