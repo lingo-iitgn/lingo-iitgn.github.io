@@ -4,26 +4,36 @@
       <div class="card">
         <div class="card-body">
           <h5 class="card-title text-center">Reading List</h5>
-          <div class="table-container" style="max-height: 600px; overflow-y: auto; border: 1px solid #CCCCCC; padding: 5px">
-            <table
-              data-click-to-select="true"
-              data-height="580"
-              data-pagination="true"
-              data-search="true"
-              data-toggle="table"
-              data-url="{{ '/assets/json/table_data.json' | relative_url }}"
-              data-sort-name="date"
-              data-classes="table table-bordered table-hover table-striped"
-              data-sort-order="desc">
+          <div class="table-container" style="max-height: 600px; overflow-y: auto; border: 1px solid #CCCCCC;">
+            <table class="table table-striped">
               <thead>
                 <tr>
-                  <th data-field="date" data-halign="center" data-align="center" data-sortable="true">Date</th>
-                  <th data-field="paper_title" data-halign="center" data-align="center" data-sortable="true">Paper Title</th>
-                  <th data-field="paper_link" data-halign="center" data-align="center" data-sortable="true" data-formatter="linkFormatter">Paper Link</th>
-                  <th data-field="attachments_link" data-halign="center" data-align="center" data-sortable="true" data-formatter="linkFormatter">Attachments Link</th>
-                  <th data-field="speaker" data-halign="center" data-align="center" data-sortable="true">Speaker</th>
+                  <th>Date</th>
+                  <th>Paper Title</th>
+                  <th>Links</th>
+                  <th>Speaker</th>
                 </tr>
               </thead>
+              <tbody>
+                {% assign sorted_items = site.data.reading | sort: 'date' | reverse %}
+                {% for item in sorted_items %}
+                  {% if item.paper_link or item.attachments_link %}
+                    <tr>
+                      <td>{{ item.date | date: "%d-%m-%Y" }}</td>
+                      <td>{{ item.paper_title }}</td>
+                      <td>
+                        {% if item.paper_link %}
+                          <a href="{{ item.paper_link }}">[Paper]</a>
+                        {% endif %}
+                        {% if item.attachments_link %}
+                          <a href="{{ item.attachments_link }}">[Attachment]</a>
+                        {% endif %}
+                      </td>
+                      <td>{{ item.speaker }}</td>
+                    </tr>
+                  {% endif %}
+                {% endfor %}
+              </tbody>
             </table>
           </div>
         </div>
@@ -31,18 +41,3 @@
     </div>
   </div>
 </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var table = new bootstrapTable.BootstrapTable(document.querySelector('table'));
-
-    table.init();
-  });
-
-  function linkFormatter(value, row) {
-    if (value) {
-      return '<a href="' + value + '" target="_blank" onclick="return true;">' + '[' + (row.attachments_link === value ? 'Attachment' : 'Paper') + ']</a>';
-    }
-    return '';
-  }
-</script>
