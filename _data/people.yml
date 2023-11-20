@@ -110,12 +110,28 @@
   bio: BTech
   research_interests: "Dataset Curation, Model Interpretability"
 
+- display_name: "Rajvee Sheth"
+  webpage: "https://www.linkedin.com/in/rajvee-sheth/"
+  image: /assets/img/people/rajvee.jpg
+  role: staff
+  bio: Junior Research Fellow
+  research_interests: "Hindi-English Codemixing"
+
+- display_name: "Heenaben Prajapati"
+  webpage: ""
+  image: /assets/img/people/heenaben.jpg
+  role: staff
+  bio: Junior Research Fellow
+  research_interests: "Gandhipedia"
+
 - display_name: "Mihir Patel"
   webpage: "https://www.linkedin.com/in/mihir-patel22/"
   image: /assets/img/people/mihir.jpeg
   role: staff
   bio: Project Assistant
   research_interests: "Gandhipedia"
+
+
 
 - display_name: "Shivam Patel"
   webpage: ""
