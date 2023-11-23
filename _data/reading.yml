@@ -125,6 +125,24 @@
 - date: 2023-10-19
   paper_title: "Galactica: A Large Language Model for Science"
   paper_link: https://arxiv.org/abs/2211.09085
-  attachments_link: 
+  attachments_link: https://docs.google.com/presentation/d/1qK0CDVkA43Kg5Nf_PY0ju8baMGiovsyNNdJENBDVaPk/edit?usp=sharing
   speaker: Siddhesh Dosi
+
+- date: 2023-11-02
+  paper_title: "Galactica: A Large Language Model for Science"
+  paper_link: https://arxiv.org/abs/2211.09085
+  attachments_link: https://docs.google.com/presentation/d/1qK0CDVkA43Kg5Nf_PY0ju8baMGiovsyNNdJENBDVaPk/edit?usp=sharing
+  speaker: Siddhesh Dosi
+
+- date: 2023-11-09
+  paper_title: "Training Compute-Optimal Large Language Models (Continued...)"
+  paper_link: https://arxiv.org/pdf/2203.15556.pdf
+  attachments_link: assets/reading_group/Chinchilla.pdf
+  speaker: Bhumik Joshi
+- date: 2023-11-23
+  paper_title: "Transformer Interface Arithmetic"
+  paper_link: 
+  attachments_link: https://docs.google.com/presentation/d/1hpvabUgq7E-avjs6wuOAJYkDFs25d0tFwHaHhoShkIY/edit?usp=sharing
+  speaker: Shridhar Pawar
+
 

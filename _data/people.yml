@@ -115,7 +115,7 @@
   image: /assets/img/people/rajvee.jpg
   role: staff
   bio: Junior Research Fellow
-  research_interests: "Hindi-English Codemixing"
+  research_interests: "Curating and constructing benchmarks and development of ML models for low-level NLP tasks in Hindi-English code-mixing"
 
 - display_name: "Heenaben Prajapati"
   webpage: ""
