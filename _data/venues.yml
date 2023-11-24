@@ -1,6 +1,97 @@
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "#00369f" #Conf
 
 "PhysRev":
   url: https://journals.aps.org/
+
+
+"ACL":
+  url: https://aclanthology.org/venues/findings/
+
+"ACL-IJCNLP":
+  url: https://2021.aclweb.org/
+
+"arXiv":
+  url: https://arxiv.org
+
+"CALCS":
+  url: https://code-switching.github.io/2021
+  color: "#03C988" #WS
+
+"CIKM":
+  url: http://www.cikmconference.org/
+
+"CODS-COMAD":
+  url: https://cods-comad.in/
+  color: "#7A0BC0" # Symposium
+
+"COLING":
+  url: https://coling2016.anlp.jp/
+
+"D-Lib":
+  url: https://www.dlib.org/
+  color: "#00369F" #Journal
+
+"EACL":
+  url: https://eacl.org/
+
+"ECIR":
+  url: https://link.springer.com/conference/ecir
+
+"EMNLP":
+  url: https://2023.emnlp.org/
+
+"Eval4NLP":
+  url: https://eval4nlp.github.io/2021/index.html
+  color: "#03C988"
+
+"ICDAR":
+  url: https://icadl.net/index.html
+
+"ICSTEM":
+  url: https://www.icstem.in/
+
+"IEEE Access":
+  url: https://ieeeaccess.ieee.org/
+  color: "#00369F" #Journal
+
+"JCDL":
+  url: https://www.jcdl.org/
+
+"JoI":
+  url: https://www.sciencedirect.com/journal/journal-of-informetrics
+  color: "#00369F" #Journal
+
+"LREC":
+  url: http://www.lrec-conf.org/
+
+"NAACL":
+  url: https://naacl.org/
+
+"KDD":
+  url: https://www.kdd.org/
+
+"Phys. A: Stats.":
+  url: https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications
+  color: "#00369F" #Journal
+
+"PLOS ONE":
+  url: https://journals.plos.org/plosone/
+  color: "#00369F" #Journal
+
+"SemEval":
+  url: https://semeval.github.io/
+  color: "#03C988" #WS
+
+"TCSS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650
+  color: "#00369F" #Journal
+
+"W-NUT":
+  url: https://aclanthology.org/venues/wnut/
+  color: "#03C988" #WS
+
+"WOSP":
+  url: https://wosp.core.ac.uk/
+  color: "#03C988" #WS
