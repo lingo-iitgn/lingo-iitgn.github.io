@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Himanshu Beniwal attended 3 days Language and Technology Summit at New Delhi.
+Himanshu Beniwal attended three days Language and Technology Summit in New Delhi. 😀
 
 <!-- ***
 
