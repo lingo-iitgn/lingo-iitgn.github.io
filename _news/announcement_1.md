@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📢📢 Congratulations to Himanshu Beniwal, Kowsik Nandagopan D, and Professor Mayank Singh on the acceptance of their 'Cross-lingual Editing in LLMs' work at EACL 2024!
+📢📢 Congratulations to [Himanshu Beniwal](https://himanshubeniwal.github.io/), Kowsik Nandagopan D, and Professor [Mayank Singh](https://mayank4490.github.io/) on the acceptance of their 'Cross-lingual Editing in LLMs' work at EACL 2024!
