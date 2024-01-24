@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Himanshu Beniwal attended the Machine Learning Summer School [(MLSS)](https://mlss2023.mlinpl.org/) at Krakow, Poland.
+Himanshu Beniwal attended the Machine Learning Summer School [(MLSS)](https://mlss2023.mlinpl.org/) at Krakow, Poland. ✨
