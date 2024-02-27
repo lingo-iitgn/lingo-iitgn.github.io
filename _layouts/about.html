@@ -16,7 +16,7 @@ layout: default
 
         <div style="display: flex; align-items: center; justify-content: space-between;">
             <h1 class="post-title">
-                {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+                {% if site.title == "blank" -%}<span class="font-weight-bold"><img src="{{ '/assets/img/new_logo.png' | relative_url }}" style="width: 150px;"></span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
             </h1>
             
             <!-- <div style="border: 2px solid #e8e8e8; padding: 5px; border-radius: 10px;">
