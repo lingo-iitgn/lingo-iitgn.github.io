@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photo album
+title: Photo Album
 permalink: /album/
 description: collection of galleries.
 nav: false

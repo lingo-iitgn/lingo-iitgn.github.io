@@ -1,19 +1,19 @@
 ---
 layout: page
-title: research
-nav: true
+title: Research
+nav: false
 nav_order: 2
 dropdown: true
 children:
-    - title: projects
-      permalink: /projects/
+    # - title: projects
+    #   permalink: /projects/
     # - title: divider
     # - title: publications
     #   permalink: /publications/
-    - title: divider
-    - title: datasets
-      permalink: /datasets/
-    - title: divider
-    - title: compute
-      permalink: /compute/
+    # - title: divider
+    # - title: datasets
+    #   permalink: /datasets/
+    # - title: divider
+    # - title: compute
+    #   permalink: /compute/
 ---

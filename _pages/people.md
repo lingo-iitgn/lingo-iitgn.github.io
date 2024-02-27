@@ -1,9 +1,9 @@
 ---
 layout: default
-title: people
+title: People
 permalink: /people/
 nav: true
-nav_order: 1
+nav_order: 2
 subtitle:
 ---
 
