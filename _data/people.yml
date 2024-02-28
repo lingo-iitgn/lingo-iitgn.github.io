@@ -26,12 +26,6 @@
   bio: PhD
   research_interests: "Human Label Variation, Modeling Ambiguity, Multi-Annotator Modeling"
 
-- display_name: "Kowsik Nandagopan D"
-  webpage: "https://dkowsikpai.github.io/"
-  image: /assets/img/people/kowshik.jpg
-  role: mtech
-  bio: MTech
-  research_interests: "Model Editing, Model Poisoning, Conversation Agents"
 
 - display_name: "Ankit Yadav"
   webpage: "https://www.linkedin.com/in/ankit-yadav-7a610b154/"
@@ -49,7 +43,7 @@
 
 - display_name: "Hitesh Lodwal"
   webpage: "https://github.com/Hitesh151"
-  image: /assets/img/people/123.png
+  image: /assets/img/people/hitesh.jpg
   role: mtech
   bio: MTech
   research_interests: "Natural Language Processing"
@@ -67,6 +61,13 @@
   role: mtech
   bio: MTech
   research_interests: "Modeling Domain Specific LLMs Under Resource Constraints"
+
+- display_name: "Kowsik Nandagopan D"
+  webpage: "https://dkowsikpai.github.io/"
+  image: /assets/img/people/kowshik.jpg
+  role: mtech
+  bio: MTech
+  research_interests: "Model Editing, Model Poisoning, Conversation Agents"
 
 - display_name: "Ary Pratap"
   webpage: ""

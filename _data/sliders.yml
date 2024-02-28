@@ -31,6 +31,9 @@
     - src: /assets/img/slider/slider1.jpeg
       title: 
       alt: Lingo!
+    - data-src: /assets/img/slider/slider0.jpeg
+      title: 
+      alt: Team!
     - data-src: /assets/img/slider/slider2.jpeg
       title: 
       alt: 

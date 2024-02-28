@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Research
-nav: false
+nav: true
 nav_order: 2
 dropdown: true
 children:
-    # - title: projects
-    #   permalink: /projects/
-    # - title: divider
-    # - title: publications
-    #   permalink: /publications/
-    # - title: divider
-    # - title: datasets
-    #   permalink: /datasets/
-    # - title: divider
-    # - title: compute
-    #   permalink: /compute/
+    - title: Research Theme
+      permalink: /research_themes/
+    - title: divider
+    - title: Projects
+      permalink: /project/
+    - title: divider
+    - title: Datasets
+      permalink: /datasets/
+    - title: divider
+    - title: Computing Resources
+      permalink: /compute/
 ---
