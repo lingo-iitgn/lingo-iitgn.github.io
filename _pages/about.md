@@ -27,8 +27,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Welcome to Computational Linguistics and Complex Social Networks Group.
-
 LINGO is the Computational Linguistics and Complex Social Networks Group at Indian Institute of Technology Gandhinagar, India.  Our group is enthusiastic about all things NLP, but specifically, we focus on representation learning for multilingual and scientific texts, large language model editing, understanding the subjectivity of human decisions in data annotation, and probing complex scientific and social networks. We have developed several portals to organize and facilitate the exploration of historical and scientific document collections. Our portal [Gandhipedia](http://gandhipedia150.in/) is an AI-enabled digital portal and an integrated repository housing resources associated with Mahatma Gandhi, his teachings, and his life. Our portal [NLPExplorer](http://lingo.iitgn.ac.in:5001/), an attempt to organize NLP research, has been accessed by more than 7.3K unique users having close to 9.7K sessions.
 
 <div class="container">
