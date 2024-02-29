@@ -9,6 +9,14 @@
   {% include head.html %}
   </head>
 
+  <script type="text/javascript" >
+    // Redirect to another page
+    function redirect() {
+      window.location.href = "https://labs.iitgn.ac.in/lingo/";
+    }
+    redirect();
+  </script>
+
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
