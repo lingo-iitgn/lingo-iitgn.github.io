@@ -1,13 +1,13 @@
 ---
 layout: page
-title: activities
+title: Events
 nav: true
-nav_order: 3
+nav_order: 7
 dropdown: true
 children:
-    - title: reading group
+    - title: Reading Group
       permalink: /reading/
     - title: divider
-    - title: photo album
-      permalink: /album/
+    - title: Talks
+      permalink: /talks/
 ---

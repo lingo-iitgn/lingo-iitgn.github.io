@@ -26,12 +26,6 @@
   bio: PhD
   research_interests: "Human Label Variation, Modeling Ambiguity, Multi-Annotator Modeling"
 
-- display_name: "Kowsik Nandagopan D"
-  webpage: "https://dkowsikpai.github.io/"
-  image: /assets/img/people/kowshik.jpg
-  role: mtech
-  bio: MTech
-  research_interests: "Model Editing, Model Poisoning, Conversation Agents"
 
 - display_name: "Ankit Yadav"
   webpage: "https://www.linkedin.com/in/ankit-yadav-7a610b154/"
@@ -41,7 +35,7 @@
   research_interests: "RLHF, Evaluation and Benchmarking of LLMs"
 
 - display_name: "Ritesh Patidar"
-  webpage: "https://www.linkedin.com/in/ritesh-patidar-615a35162/"
+  webpage: "https://patidarritesh.github.io/profile-portfolio/"
   image: /assets/img/people/ritesh.jpg
   role: mtech
   bio: MTech
@@ -49,7 +43,7 @@
 
 - display_name: "Hitesh Lodwal"
   webpage: "https://github.com/Hitesh151"
-  image: /assets/img/people/123.png
+  image: /assets/img/people/hitesh.jpg
   role: mtech
   bio: MTech
   research_interests: "Natural Language Processing"
@@ -67,6 +61,34 @@
   role: mtech
   bio: MTech
   research_interests: "Modeling Domain Specific LLMs Under Resource Constraints"
+
+- display_name: "Kowsik Nandagopan D"
+  webpage: "https://dkowsikpai.github.io/"
+  image: /assets/img/people/kowshik.jpg
+  role: mtech
+  bio: MTech
+  research_interests: "Model Editing, Model Poisoning, Conversation Agents"
+
+- display_name: "Eshwar Dhande"
+  webpage: "www.linkedin.com/in/eshwar-dhande-84167a160"
+  image: /assets/img/people/eshwar.jpg
+  role: mtech
+  bio: MTech
+  research_interests: "Large Language Models"
+
+- display_name: "Aamod Thakur"
+  webpage: ""
+  image: /assets/img/people/aamod.jpg
+  role: mtech
+  bio: MTech
+  research_interests: "Deep Learning, Natural Language Processing"
+
+- display_name: "Isha Narang"
+  webpage: "https://www.linkedin.com/in/isha-narang-iitgn/"
+  image: /assets/img/people/isha.jpg
+  role: mtech
+  bio: MTech
+  research_interests: "Natural Language Processing"
 
 - display_name: "Ary Pratap"
   webpage: ""
@@ -116,6 +138,21 @@
   role: staff
   bio: Project Assistant
   research_interests: "Gandhipedia"
+
+- display_name: "Rajvee Sheth"
+  webpage: "www.linkedin.com/in/rajvee-sheth"
+  image: /assets/img/people/rajvee.jpg
+  role: staff
+  bio: JRF
+  research_interests: "Curating and constructing benchmarks and development of ML models for low-level NLP tasks in Hindi-English code-mixing"
+
+- display_name: "Heenaben Prajapati"
+  webpage: "https://www.linkedin.com/in/heena-prajapati-4977851a5"
+  image: /assets/img/people/heena.jpg
+  role: staff
+  bio: JRF
+  research_interests: "GANDHIPEDIA: A one-stop portal for browsing Gandhian literature, life-events and his social network"
+
 
 - display_name: "Shivam Patel"
   webpage: ""
