@@ -2,9 +2,9 @@
 layout: page
 permalink: /compute/
 title: Computing Resources
-description: computation resources for lingo, gpus going brrrrr.....
+description: 
 nav: false
 nav_order: 6
 ---
 
-{% include compute.html %}
+{% include compute_new.html %}
