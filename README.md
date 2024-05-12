@@ -1,4 +1,4 @@
-# Computational Linguistics and Complex Social Networks Group @ IIT Gandhinagar
+# Lingo Research Group @ IIT Gandhinagar
 
 
 ### Installation
