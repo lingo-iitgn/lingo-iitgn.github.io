@@ -1,7 +1,7 @@
 ---
 layout: default
-title: people
-permalink: /people/
+title: Team
+permalink: /team/
 nav: true
 nav_order: 1
 subtitle:

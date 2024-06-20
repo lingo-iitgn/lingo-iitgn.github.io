@@ -1,3 +1,19 @@
+- name: LINGO LEXICO
+  model_name: Supermicro GPU Server
+  cpu:
+    processor: 2 × Intel Xeon Gold 6226
+    cores: 2 × 12 cores
+    base_frequency: 2.7 GHz
+    memory_speed: 2933 MHz
+  ram: 756 GB
+  nas: 1 × 20 TB
+  gpu:
+    processor: 4 × Nvidia Tesla V100 32 GB
+    cores: NVIDIA Tensor Cores- 640
+    ram: 768 GB
+  ssd: 2 × 3.84 GB
+  harddisk: 2 × 8 TB
+  os: Ubuntu 20.04
 - name: LINGO PHOENIX
   model_name: Supermicro GPU Server
   cpu:
@@ -24,18 +40,3 @@
   ssd: 2 × 512 GB
   harddisk: 2 × 4 TB SATA
   os: Cent 7.6
-
-- name: LINGO LEXICO
-  model_name: Supermicro GPU Server
-  cpu:
-    processor: 2 × Intel Xeon Gold 6226
-    cores: 2 × 12 cores
-    base_frequency: 2.7 GHz
-    memory_speed: 2933 MHz
-  gpu:
-    processor: 4 × Nvidia Tesla V100 32 GB
-    cores: NVIDIA Tensor Cores- 640
-    ram: 768 GB
-  ssd: 2 × 3.84 GB
-  harddisk: 2 × 8 TB
-  os: Ubuntu 20.04

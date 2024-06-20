@@ -3,6 +3,8 @@ layout: default
 ---
 
 <div class="post">
+
+
     <!-- <header class="post-header">
         <h1 class="post-title">
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
@@ -14,24 +16,93 @@ layout: default
 
         <div style="display: flex; align-items: center; justify-content: space-between;">
             <h1 class="post-title">
-                {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+                {% if site.title == "blank" -%}<span class="font-weight-bold"><img src="{{ '/assets/img/new_logo.png' | relative_url }}" style="width: 150px;"></span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
             </h1>
             
-            <div style="border: 2px solid #e8e8e8; padding: 5px; border-radius: 10px;">
+            <!-- <div style="border: 2px solid #e8e8e8; padding: 5px; border-radius: 10px;">
                 <img src="{{ '/assets/img/lingo_iitgn.png' | relative_url }}" alt="Logo" style="width: 100px; height: auto;">
-            </div>
+            </div> -->
         </div>
         <p class="desc">{{ page.subtitle }}</p>
     </header>
-
     <article>
+        <div class="row justify-content-center">
+            <div class="col-lg-3 col-md-4 mb-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title h6"></h5>
+                        <!-- <hr class="mt-3 mb-2"> Title horizontal line -->
+                        <p class="card-text"></p>
+                        <!-- <hr class="mt-3 mb-2"> Description horizontal line -->
+                        <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        <p class="card-text text-center"></p>
+                        <!-- <hr class="mt-3 mb-2"> Authors horizontal line -->
+                        <p class="card-text">
+                            <a href="{{ dataset.dataset_url }}" target="_blank">Responsible and fair AI</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="col-lg-3 col-md-4 mb-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title h6"></h5>
+                        <!-- <hr class="mt-3 mb-2"> Title horizontal line -->
+                        <p class="card-text"></p>
+                        <!-- <hr class="mt-3 mb-2"> Description horizontal line -->
+                        <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        <p class="card-text text-center"></p>
+                        <!-- <hr class="mt-3 mb-2"> Authors horizontal line -->
+                        <p class="card-text">
+                            <a href="{{ dataset.dataset_url }}" target="_blank">NLP for India</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="col-lg-3 col-md-4 mb-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title h6"></h5>
+                        <!-- <hr class="mt-3 mb-2"> Title horizontal line -->
+                        <p class="card-text"></p>
+                        <!-- <hr class="mt-3 mb-2"> Description horizontal line -->
+                        <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        <p class="card-text text-center"></p>
+                        <!-- <hr class="mt-3 mb-2"> Authors horizontal line -->
+                        <p class="card-text">
+                            <a href="{{ dataset.dataset_url }}" target="_blank">AI for Science</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="col-lg-3 col-md-4 mb-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title h6"></h5>
+                        <!-- <hr class="mt-3 mb-2"> Title horizontal line -->
+                        <p class="card-text"></p>
+                        <!-- <hr class="mt-3 mb-2"> Description horizontal line -->
+                        <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        <p class="card-text text-center"></p>
+                        <!-- <hr class="mt-3 mb-2"> Authors horizontal line -->
+                        <p class="card-text">
+                            <a href="{{ dataset.dataset_url }}" target="_blank">Large Language Modelling</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
         <div class="clearfix" style="text-align: justify;">
             {{ content }}
         </div>
 
         <!-- News -->
         {% if page.news and site.announcements.enabled -%}
-        <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+        <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
         {%- include news.html limit=true %}
         {%- endif %}
 
@@ -43,7 +114,7 @@ layout: default
 
         <!-- Selected papers -->
         {% if page.selected_papers -%}
-        <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+        <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
         {%- include selected_papers.html %}
         {%- endif %}
 
